@@ -1,0 +1,3 @@
+[submodule "boids"]
+	path = boids
+	url = git@github.com:MisterDA/boids.git
